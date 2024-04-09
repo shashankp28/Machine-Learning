@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 dino.keras
+Dino-Data
 
 # C extensions
 *.so
