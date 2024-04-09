@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-dino.bot
+dino.keras
 
 # C extensions
 *.so
